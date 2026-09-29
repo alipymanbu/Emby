@@ -1,55 +1,25 @@
-Emby Server
-============
+# Emby
 
-Emby Server is a personal media server with apps on just about every device.
+本仓库是「Emby」的安卓版本获取入口，附使用资料索引。
 
-It features a REST-based API with built-in documention to facilitate client development. We also have client libraries for our API to enable rapid development.
+## 安装文件资源（夸克网盘）
 
-## Emby Apps
+> **Emby 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e72bc68390a1](https://pan.quark.cn/s/e72bc68390a1)
 
-- [Android Mobile (Play Store)](https://play.google.com/store/apps/details?id=com.mb.android "Android Mobile (Play Store)")
-- [Android Mobile (Amazon)](http://www.amazon.com/Emby-for-Android/dp/B00GVH9O0I "Android Mobile (Amazon)")
-- [Android TV](https://play.google.com/store/apps/details?id=tv.emby.embyatv "Android TV")
-- [Amazon Fire TV](http://www.amazon.com/Emby-for-Fire-TV/dp/B00VVJKTW8 "Amazon Fire TV")
-- [HTML5](http://app.emby.media "HTML5")
-- [iPad](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPad")
-- [iPhone](https://itunes.apple.com/us/app/emby/id992180193?ls=1&mt=8 "iPhone")
-- [Kodi](http://emby.media/download/ "Kodi")
-- [Media Portal](http://www.team-mediaportal.com/ "Media Portal")
-- [Roku](https://www.roku.com/channels#!details/44191/emby "Roku")
-- [Windows Desktop](http://emby.media/download/ "Windows Desktop")
-- [Windows Media Center](http://emby.media/download/ "Windows Media Center")
-- [Windows Phone](http://www.windowsphone.com/s?appid=f4971ed9-f651-4bf6-84bb-94fd98613b86 "Windows Phone")
-- [Windows 8](http://apps.microsoft.com/windows/en-us/app/media-browser/ad55a2f0-9897-47bd-8944-bed3aefd5d06 "Windows 8.1")
+## 官方项目
 
-## New Users ##
+- 上游项目：[MediaBrowser/Emby](https://github.com/MediaBrowser/Emby)
 
-If you're a new user looking to install Emby Server, please head over to [emby.media](http://www.emby.media/ "emby.media")
+## 更多资料
 
-## Developer Info ##
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Emby/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [字幕不显示与字幕下载](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Emby/%E5%AD%97%E5%B9%95%E4%B8%8D%E6%98%BE%E7%A4%BA%E4%B8%8E%E5%AD%97%E5%B9%95%E4%B8%8B%E8%BD%BD.md)
+- [常见连接问题排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Emby/%E5%B8%B8%E8%A7%81%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5.md)
+- [播放卡顿与转码排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Emby/%E6%92%AD%E6%94%BE%E5%8D%A1%E9%A1%BF%E4%B8%8E%E8%BD%AC%E7%A0%81%E6%8E%92%E6%9F%A5.md)
+- [播放设置与格式支持](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Emby/%E6%92%AD%E6%94%BE%E8%AE%BE%E7%BD%AE%E4%B8%8E%E6%A0%BC%E5%BC%8F%E6%94%AF%E6%8C%81.md)
+- [添加服务器与登录](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Emby/%E6%B7%BB%E5%8A%A0%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8E%E7%99%BB%E5%BD%95.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-[Api Docs](https://github.com/MediaBrowser/MediaBrowser/wiki "Api Workflow")
+---
 
-[How to Build a Server Plugin](https://github.com/MediaBrowser/MediaBrowser/wiki/How-to-build-a-Server-Plugin "How to build a server plugin")
-
-
-## Visit our community: ##
-
-http://emby.media/community
-
-## Images
-
-![Android](https://dl.dropboxusercontent.com/u/4038856/android1.png)
-![Android](https://dl.dropboxusercontent.com/u/4038856/android2.png)
-![Html5](https://github.com/MediaBrowser/MediaBrowser.Resources/raw/master/apps/html5.png)
-![iOS](https://github.com/MediaBrowser/MediaBrowser.Resources/raw/master/apps/ios_1.jpg)
-![iOS](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/ios_2.jpg)
-![Emby Theater](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/mbt.png)
-![Emby Theater](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/mbt1.png)
-![Windows Phone](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/winphone.png)
-![Roku](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/roku2.jpg)
-![iOS](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/ios_3.jpg)
-![Dashboard](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/dashboard.png)
-![iOS](http://i.imgur.com/prrzxMc.jpg)
-![iOS](http://i.imgur.com/c9Vd1w5.jpg)
-
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/MediaBrowser/Emby)。
